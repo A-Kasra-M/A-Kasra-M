@@ -1,11 +1,10 @@
 # HELLO WORLD!
 #### kasra mashkoori
 
-- 👋 Hi, I’m @A-Kasra-M (my name: A. Kasra Mashkoori)
+- 👋 Hi, I’m [A. Kasra Mashkoori](https://www.linkedin.com/in/amirali-mashkoori-38539a1b7/) ([@A-Kasra-M](https://github.com/A-Kasra-M))
 - 👀 I’m interested in Programming, biotechnology, nanotechnology, quantum physics and some chemistry topics;
-- 🌱 I’m currently learning the: basics of computer science at Harvard CS50x course & International junior Science Olympiad & English language.
+- 🧠 I’m currently learning the: Web development & English language & ...
 - 🤍 I love reading, writing and making. I try to make myself better, to make my world better...
-
 
 <!---
 A-Kasra-M/A-Kasra-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
